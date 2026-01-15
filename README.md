@@ -11,7 +11,7 @@ This project is a complete task management system built using **Laravel (backend
 task-management/
 │
 ├── backend/     # Laravel backend
-├── frotend/     # React frontend
+├── frontend/     # React frontend
 └── README.md
 ```
 
@@ -107,7 +107,7 @@ task-management/
 ---
 
 ## Backend Setup (Laravel)
-
+Clone the Repository:git clone https://github.com/Mohammadkashif726/fullstack-task-management-assessment.git
 ```bash
 cd backend
 composer install
@@ -131,7 +131,7 @@ http://127.0.0.1:8000
 ## Frontend Setup (React)
 
 ```bash
-cd frotend
+cd frontend
 npm install
 npm start
 ```
